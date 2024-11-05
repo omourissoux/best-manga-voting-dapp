@@ -49,12 +49,12 @@
     "embla-carousel-react": "^8.3.0",
     "eslint": "8.49.0",
     "eslint-config-next": "13.5.1",
-    "ethers": "^5.7.2",
+    "ethers": "^6.13.4",
     "input-otp": "^1.2.4",
     "lucide-react": "^0.446.0",
-    "next": "13.5.1",
+    "next": "^15.0.2",
     "next-themes": "^0.3.0",
-    "postcss": "8.4.30",
+    "postcss": "^8.4.47",
     "react": "18.2.0",
     "react-day-picker": "^8.10.1",
     "react-dom": "18.2.0",
@@ -67,7 +67,7 @@
     "tailwindcss-animate": "^1.0.7",
     "typescript": "5.2.2",
     "vaul": "^0.9.9",
-    "wagmi": "^0.12.0",
+    "wagmi": "^2.12.25",
     "zod": "^3.23.8"
   }
 }
